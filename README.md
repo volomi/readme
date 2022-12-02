@@ -3,7 +3,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Atharv Shukla</h1>
 <h3 align="center">I'm a passionate Gizmoniac from India.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Pixel-Bot-Tho&label=Profile%20views&color=0e75b6&style=flat" alt="Pixel-Bot-Tho" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=volomi&label=Profile%20views&color=0e75b6&style=flat" alt="volomi" /> </p>
 
 - 🔭 I’m currently working on *a startup project*
 
@@ -11,7 +11,7 @@
 
 - 👯 I’m looking for a *internship opportunities related to my skills.*
 
-- 👨‍💻 All of my projects are available at [here](https://github.com/Pixel-Bot-Tho?tab=repositories)
+- 👨‍💻 All of my projects are available at [here](https://github.com/volomi?tab=repositories)
 
 - 💬 Ask me about *DevOps tools and Cloud.*
 
@@ -27,14 +27,14 @@
 <br/>
 
 <p align="center">
-<a href="https://github.com/Pixel-Bot-Tho/github-readme-streak-stats">
-<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Atharv Shukla's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Pixel-Bot-Tho&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+<a href="https://github.com/volomi/github-readme-streak-stats">
+<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Atharv Shukla's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=volomi&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
 </a>
 </p>
 
 ## 📊 My GitHub Stats
 
 <br/>
-<a href="https://github.com/Pixel-Bot-Tho/github-readme-stats"><img alt="Atharv Shukla's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Pixel-Bot-Tho&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-<a href="https://github.com/Pixel-Bot-Tho/github-readme-stats"><img alt="Atharv Shukla's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pixel-Bot-Tho&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/volomi/github-readme-stats"><img alt="Atharv Shukla's Github Stats" src="https://github-readme-stats.vercel.app/api?username=volomi&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/volomi/github-readme-stats"><img alt="Atharv Shukla's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=volomi&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 <br/>
